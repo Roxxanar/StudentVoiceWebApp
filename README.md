@@ -1,6 +1,7 @@
 General Features:
 
 Web service with onion architecture;
+
 The application should have a modern layout, easy to follow, respect the accessibility demands and it should be accessed from laptop, desktop and mobile devices;
 Two levels of authorization:
 Administrator
