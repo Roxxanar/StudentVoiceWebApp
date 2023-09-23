@@ -1,3 +1,7 @@
+Project Scope:
+
+Implement an application that will allow students to share their feedback and rates for different topics.
+
 General Features:
 
 Web service with onion architecture;
